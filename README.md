@@ -1,2 +1,2 @@
 # E-commerce-Site
-An ecommerce site for selling mobile phone 
+Simple an e-commerce site for selling monbile phone
