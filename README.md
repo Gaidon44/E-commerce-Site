@@ -1,2 +1,2 @@
-# E-commerce-Site
-Simple an e-commerce site for selling monbile phone
+# Mobile_Shopee-E-Commerce-Website
+An ecommerce website developed using MYSQL,PHP,JS,SASS
